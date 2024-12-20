@@ -1,0 +1,4 @@
+while true do
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Tap"):FireServer()
+wait(0.0000000001)
+end
